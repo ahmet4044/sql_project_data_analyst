@@ -1,6 +1,6 @@
 /*
 Question: What are the top-paying business analyst jobs?
-- Identify the top 10 highes-paying business analyst roles
+- Identify the top 10 highes-paying business analyst roles in United States
 - Focuses on job postings with not null salaries
 */
 

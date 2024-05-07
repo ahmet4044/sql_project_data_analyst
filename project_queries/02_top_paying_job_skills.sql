@@ -2,7 +2,7 @@
 Question: What skills are required for the top-paying business analyst jobs?
 - Use the top 10 highest paying business analyst jobs from first query
 - Add the specific skills required for these roles
-- Outcome - provides a detailed look at the skills required for top paying business analyst jobs
+- Outcome - provides a detailed look at the skills required for top paying business analyst jobs in United States
 */
 
 WITH top_paying_jobs as (
